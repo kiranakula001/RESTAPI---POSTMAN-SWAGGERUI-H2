@@ -15,5 +15,7 @@ spring.datasource.username=sa
 spring.datasource.password=sa
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 spring.h2.console.enabled=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
 ![image](https://github.com/user-attachments/assets/e19b133c-dd4f-47a3-a87b-62198e9c7c0e)
 
